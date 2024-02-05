@@ -6,6 +6,10 @@ module.exports = {
     },
     plugins: [],
     daisyui: {
-        themes: ["light", "dark", "cupcake","dracula",],
+        themes: ["light", "dark", "cupcake","dim","night",],
+      },
+      backgroundImage: {
+        'bgi': "url('bg4.jpg')",
+        
       },
   }
